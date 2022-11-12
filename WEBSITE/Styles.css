@@ -1,0 +1,125 @@
+.centered
+{
+    text-align:center
+}
+ .large
+ {
+    font-size:large
+ }
+
+ .medium
+ {
+    font-size:medium
+ }
+
+ .small
+ {
+    font-size:small
+ }
+
+ .sans
+ {
+    font: 15px Arial, sans-serif
+ }
+
+ .menu
+ {
+    font:menu
+ }
+
+ .yellow-bg
+ {
+    background-color:#ffff99
+ }
+
+ .blue-bg
+ {
+    background-color:#0000ff
+ }
+
+ .skyblue
+ {
+    background-color:#ADD8E6
+ }
+
+ .lpink
+ {
+    background-color:#FFB6C1
+ }
+
+ .green
+ {
+    background-color:#00e600
+ }
+
+ .orange
+ {
+    background-color:#FED8B1
+ }
+
+ .huge
+ {
+    font-size:50px
+ }
+
+ .giant
+ {
+    font-size:85px
+ }
+
+ .big
+ {
+   font-size:35px
+ }
+
+
+ .list-inline {
+   display: flex;
+ }
+
+ .list-inline li {
+   flex: 1;
+
+   text-align: center;
+ }
+
+ .cyan
+ {
+   background-color:#00FFFF
+ }
+
+ .brown
+ {
+   background-color:#C4A484
+ }
+
+ .olive
+ {
+   background-color:#808000
+ }
+
+ .almond
+ {
+   background-color:#EADDCA
+ }
+
+ .mango
+ {
+   background-color:#FFC300
+ }
+
+ .purple
+ {
+   background-color:#A90BF6
+
+ }
+
+ .red
+ {
+   background-color:#F26661
+ }
+
+ .text-center
+ {
+   text-align: center;
+ }
